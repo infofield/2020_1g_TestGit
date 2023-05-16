@@ -11,6 +11,7 @@ namespace _2020_1g_TestGit
         static void Main(string[] args)
         {
             Console.WriteLine("HI");
+            Console.WriteLine("HI2");
         }
     }
 }
